@@ -1,4 +1,9 @@
 # vite-plugin-preprocess-debug-info
+
+![NPM](https://img.shields.io/npm/l/vite-plugin-preprocess-debug-info)
+
+![npm](https://img.shields.io/npm/v/vite-plugin-preprocess-debug-info)
+
 Vite plugin preprocessing source files for C-like `__FILE__` and `__LINE__`
 
 ## Setup
