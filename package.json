@@ -1,0 +1,10 @@
+{
+  "name": "vite-plugin-preprocess-debug-info",
+  "version": "1.0.0",
+  "description": "Preprocess files and replace __LINE__ __FILE__ in C style",
+  "keywords": ["vite-plugin"],
+  "main": "index.js",
+  "author": "Roman Yerin",
+  "license": "MIT",
+  "private": false
+}
